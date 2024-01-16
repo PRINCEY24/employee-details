@@ -1,0 +1,47 @@
+
+     [
+{
+"Name": "John Doe",
+"Code": "Emp01",
+"Designation": "Software Developer",
+"Email": "john@ibap.com",
+"Mobile": "7987574875",
+"Address": "Madhya Pradesh",
+"Image": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35af6a41332353.57a1ce913e889.jpg",
+"DOB": "",
+"DOJ": ""
+},
+{
+"Name": "Aden",
+"Code": "Emp02",
+"Designation": "UI/UX Designer",
+"Email": "aden@ibap.com",
+"Mobile": "6987574875",
+"Address": "Tamil Nadu",
+"Image": "https://c.pxhere.com/photos/32/cf/white_male_fashion_man_young_people_person_portrait-580923.jpg!d",
+"DOB": "",
+"DOJ": ""
+},
+{
+"Name": "Jane Smith",
+"Code": "Emp03",
+"Designation": "HR Manager",
+"Email": "smith@ibap.com",
+"Mobile": "9987574875",
+"Address": "Tamil Nadu",
+"Image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/15345c41332353.57a1ce9141249.jpg",
+"DOB": "",
+"DOJ": ""
+},
+{
+"Name": "Stephen",
+"Code": "Emp03",
+"Designation": "Frontend Developer",
+"Email": "stephen@ibap.com",
+"Mobile": "9987574875",
+"Address": "Tamil Nadu",
+"Image": "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?rs=1&pid=ImgDetMain",
+"DOB": "",
+"DOJ": ""
+}
+]
